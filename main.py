@@ -1,3 +1,9 @@
+# 1o Trabalho de Programação Orientada a Objetos
+# Integrantes:
+#   Caio Eduardo de Carvalho
+#   Kauã Queiroga Oliveira André
+#   Luenmar Briani Venditti
+
 """Script de homologação do sistema de e-commerce.
 
 Executa, na ordem, as 4 etapas previstas no roteiro de testes do enunciado.

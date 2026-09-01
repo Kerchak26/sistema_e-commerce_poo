@@ -1,3 +1,9 @@
+# 1o Trabalho de Programação Orientada a Objetos
+# Integrantes:
+#   Caio Eduardo de Carvalho
+#   Kauã Queiroga Oliveira André
+#   Luenmar Briani Venditti
+
 import re
 
 class Cliente:

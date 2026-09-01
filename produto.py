@@ -1,3 +1,9 @@
+# 1o Trabalho de Programação Orientada a Objetos
+# Integrantes:
+#   Caio Eduardo de Carvalho
+#   Kauã Queiroga Oliveira André
+#   Luenmar Briani Venditti
+
 class Produto:
     def __init__(self, nome: str, categoria: str, preco: float):
         self.nome = nome  # Atributo público
